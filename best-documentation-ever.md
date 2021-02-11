@@ -1,0 +1,2 @@
+# Best documentation ever
+
