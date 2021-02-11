@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction](introduction.md)
 * [Best documentation ever](best-documentation-ever.md)
 
